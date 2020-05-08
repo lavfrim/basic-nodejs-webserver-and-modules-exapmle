@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(216, 216, 216);
+    padding: 2rem;
+}
+
+nav {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.main-content {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkgreen;
+}

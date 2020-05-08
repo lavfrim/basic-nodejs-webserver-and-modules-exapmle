@@ -1,0 +1,24 @@
+{
+  "name": "basic-node",
+  "version": "1.0.0",
+  "description": "basic-node-js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node indes.js",
+    "dev": "nodemon inde.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "node-js"
+  ],
+  "author": "Aliaksandr Lazarau <aliaksandr_lazarau@epam.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^4.0.0",
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
